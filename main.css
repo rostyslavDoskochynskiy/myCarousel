@@ -1,0 +1,17 @@
+.box {
+    width: 300px;
+    height: 100px;
+    margin: 200px auto;
+    overflow: hidden;
+    transition: 0.7s;
+}
+
+.arrayImg{
+    width: 900px;
+    height: 100%;
+}
+
+.img{
+    transition: 0.7s;
+    float: left;
+}
